@@ -1,1 +1,1 @@
-# test-coveralls
+# test-coveralls [![Coverage Status](https://coveralls.io/repos/github/zeroFruit/test-coveralls/badge.svg?branch=master)](https://coveralls.io/github/zeroFruit/test-coveralls?branch=master) [![Build Status](https://travis-ci.org/zeroFruit/test-coveralls.svg?branch=master)](https://travis-ci.org/zeroFruit/test-coveralls)
